@@ -4,13 +4,12 @@ A Discord bot that automatically assigns FACEIT ELO and level roles based on CS2
 
 ## Features
 
-- 🎯 **Automatic Role Assignment**: Assigns ELO-specific roles and FACEIT level roles
-- 🎨 **Official FACEIT Colors**: Uses authentic FACEIT level colors
-- 🔄 **Smart Role Management**: Removes old roles when ELO changes
-- 🛡️ **Role-Based Permissions**: Configurable user access control
-- 📊 **Comprehensive Logging**: Structured logging with Winston
-- 🔁 **Retry Logic**: Robust API error handling with exponential backoff
-- 📝 **Case-Insensitive**: Tries multiple username variations
+- **User Role Assignment**: Assigns ELO-specific roles and FACEIT level roles
+- **Official FACEIT Colors**: Uses authentic FACEIT level colors
+- **Smart Role Management**: Removes old roles when ELO changes
+- **Role-Based Permissions**: Configurable user access control
+- **Comprehensive Logging**: Structured logging with Winston
+- **Case-Insensitive**: Tries multiple username variations
 
 ## Installation
 
