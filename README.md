@@ -1,6 +1,7 @@
 # CS2 FACEIT ELO Discord Bot
 
 A Discord bot that automatically assigns FACEIT ELO and level roles based on CS2 statistics.
+(Coded all core functionality 100% myself in private repo, got copilot to add some extra features, format structure etc for a public repo hence all the AI slop in comments etc)
 
 ## Features
 
